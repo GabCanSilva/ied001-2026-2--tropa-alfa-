@@ -1,1 +1,7 @@
-#Arquivos a serem ignorados
+.venv/
+__pycache__/
+*.pyc
+build/*
+!build/.gitkeep
+.vscode/
+.DS_Store

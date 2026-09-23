@@ -1,0 +1,15 @@
+=== CADASTRO DE PASSAGEIROS ===
+Passageiros cadastrados com sucesso.
+
+=== LISTAGEM DE PASSAGEIROS ===
+{'id': 1, 'nome_completo': 'Carla Mendes', 'email': 'carla.mendes@viagens.com', 'senha': 'ff167e778f8fd8c4b2ee7e9552ec334ab038a8159408b1f157c32e5b2b9b4525'}
+{'id': 2, 'nome_completo': 'Marcos Vinicius', 'email': 'marcos.vinicius@viagens.com', 'senha': '27ce92e3194a36dd602d8b028650e628e11da22ea33698e72fadbae02327923c'}
+
+=== BUSCA POR ID (ID: 2) ===
+{'id': 2, 'nome_completo': 'Marcos Vinicius', 'email': 'marcos.vinicius@viagens.com', 'senha': '27ce92e3194a36dd602d8b028650e628e11da22ea33698e72fadbae02327923c'}
+
+=== ATUALIZAÇÃO (ID: 1) ===
+{'id': 1, 'nome_completo': 'Carla Mendes de Souza', 'email': 'carla.mendes@viagens.com', 'senha': 'ff167e778f8fd8c4b2ee7e9552ec334ab038a8159408b1f157c32e5b2b9b4525'}
+
+=== TENTATIVA DE DUPLICAÇÃO DE E-MAIL (Erro esperado) ===
+Exceção capturada corretamente: Erro: O e-mail 'carla.mendes@viagens.com' já está cadastrado no sistema.
