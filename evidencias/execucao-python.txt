@@ -1,15 +1,12 @@
-=== CADASTRO DE PASSAGEIROS ===
-Passageiros cadastrados com sucesso.
+=== CADASTRO DE CLIENTES - TICKETS ELETRÃ”NICOS ===
+Clientes cadastrados com sucesso.
 
-=== LISTAGEM DE PASSAGEIROS ===
-{'id': 1, 'nome_completo': 'Carla Mendes', 'email': 'carla.mendes@viagens.com', 'senha': 'ff167e778f8fd8c4b2ee7e9552ec334ab038a8159408b1f157c32e5b2b9b4525'}
-{'id': 2, 'nome_completo': 'Marcos Vinicius', 'email': 'marcos.vinicius@viagens.com', 'senha': '27ce92e3194a36dd602d8b028650e628e11da22ea33698e72fadbae02327923c'}
+=== LISTAGEM DE CLIENTES ===
+{'id': 1, 'nome': 'Lucas Almeida', 'email': 'lucas.almeida@ticketfy.com', 'senha': '3a68c7c7adfe4000d101670e0c324fcb3af758f34de25cba222047068639bdd3'}
+{'id': 2, 'nome': 'Mariana Souza', 'email': 'mariana.souza@ticketfy.com', 'senha': '52bc47f80b6fe698e9a14327e1bb7ddfa39a21740c8c7017329f3ec555a3bcf6'}
 
 === BUSCA POR ID (ID: 2) ===
-{'id': 2, 'nome_completo': 'Marcos Vinicius', 'email': 'marcos.vinicius@viagens.com', 'senha': '27ce92e3194a36dd602d8b028650e628e11da22ea33698e72fadbae02327923c'}
+{'id': 2, 'nome': 'Mariana Souza', 'email': 'mariana.souza@ticketfy.com', 'senha': '52bc47f80b6fe698e9a14327e1bb7ddfa39a21740c8c7017329f3ec555a3bcf6'}
 
-=== ATUALIZAÇÃO (ID: 1) ===
-{'id': 1, 'nome_completo': 'Carla Mendes de Souza', 'email': 'carla.mendes@viagens.com', 'senha': 'ff167e778f8fd8c4b2ee7e9552ec334ab038a8159408b1f157c32e5b2b9b4525'}
-
-=== TENTATIVA DE DUPLICAÇÃO DE E-MAIL (Erro esperado) ===
-Exceção capturada corretamente: Erro: O e-mail 'carla.mendes@viagens.com' já está cadastrado no sistema.
+=== ATUALIZAÃ‡ÃƒO (ID: 1) ===
+{'id': 1, 'nome': 'Lucas Almeida Silva', 'email': 'lucas.almeida@ticketfy.com', 'senha': '3a68c7c7adfe4000d101670e0c324fcb3af758f34de25cba222047068639bdd3'}

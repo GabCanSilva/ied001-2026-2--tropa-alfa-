@@ -1,7 +1,7 @@
-=== LISTAGEM DE PASSAGEIROS ===
-id=1 | nome=Carla Mendes | email=carla.mendes@viagens.com
-id=2 | nome=Marcos Vinicius | email=marcos.vinicius@viagens.com
-id=3 | nome=Ana Silva | email=ana.silva@viagens.com
+=== SISTEMA DE TICKETS ELETRÔNICOS - LISTAGEM DE CLIENTES ===
+id=1 | nome=Lucas Almeida | email=lucas.almeida@ticketfy.com
+id=2 | nome=Mariana Souza | email=mariana.souza@ticketfy.com
+id=3 | nome=Carlos Eduardo | email=carlos.eduardo@ticketfy.com
 
 === BUSCA POR ID (ID: 2) ===
-Encontrado -> id=2 | nome=Marcos Vinicius | email=marcos.vinicius@viagens.com
+Encontrado -> id=2 | nome=Mariana Souza | email=mariana.souza@ticketfy.com
