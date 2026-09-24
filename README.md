@@ -1,10 +1,3 @@
-# 
-Tropa Alfa
-
-EDNILSON
-NATI
-GABRIEL
-ELIANE
 # ied001-2026-2-tropa-alfa-
 ## Grupo TROPA ALPHA (ALPHA FLIGHT)
 - PM: Natalia Zaniboni
